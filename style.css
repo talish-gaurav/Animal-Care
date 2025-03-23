@@ -1,0 +1,14 @@
+h1{
+    color: rgb(255, 0, 170);
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color:crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    color: blueviolet;
+}
+strong{
+    color:orangered
+}
